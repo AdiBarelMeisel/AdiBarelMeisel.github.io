@@ -3,5 +3,5 @@
 Hello! welcom to my Github page !
 
 קיקףג
-link to GIthub Markdwon:
-{Markdown}(https://github.github.com/gfm/)
+link to Github Markdwon:
+[Markdown](https://github.github.com/gfm/)
