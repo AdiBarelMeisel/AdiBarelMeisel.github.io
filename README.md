@@ -6,4 +6,5 @@ Hello! welcom to my Github page !
 link to Github Markdwon:
 [Markdown](https://github.github.com/gfm/)
 
-*[my picture](/my picture)
+*[my picture]
+(/my picture)
