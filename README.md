@@ -11,11 +11,14 @@ I love hiking and baking and to listen to good music.
 ![This is me:](/15681F079.jpg)
 
 
-Some itresting links:
-Link to Github Markdwon:
-[Markdown](https://github.github.com/gfm/)
+Some nice links:
+
+Link to Github Markdwon: [Markdown](https://github.github.com/gfm/)
+
 My Github address: AdiBarelMeisel.github.io
-M
+GO check my friend [Hadar] (https://hadarklimovski.github.io/)  github page. 
+
+I'm taking the [Python](https://github.com/szabgab/wis-python-course-2024-04?tab=readme-ov-file)  course of WIS, my solutions will be published [here](https://github.com/AdiBarelMeisel/AdiBarelMeisel.github.io/tree/main/Assignments/Day02)
 
 
 
